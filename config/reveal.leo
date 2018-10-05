@@ -21,16 +21,27 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181005094736.1" a="E"><vh>w1</vh>
-<v t="leo.20181005094736.2"><vh>上課內容</vh></v>
+<v t="leo.20181005112546.1"><vh>每週心得</vh>
+<v t="leo.20181005112546.2" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20181005112546.3"><vh>w1</vh></v>
 </v>
-<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
+<v t="leo.20181005112546.4" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20181005112546.5"><vh>w2</vh></v>
+</v>
+<v t="leo.20181005112859.1" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20181005112859.2"><vh>w3</vh></v>
+</v>
+<v t="leo.20181005112546.6" a="E"><vh>導入影片</vh>
+<v t="leo.20181005112546.7"><vh>w4</vh></v>
+</v>
+</v>
+<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -327,7 +338,44 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181005094736.1">&lt;section data-markdown&gt;
+<t tx="leo.20181005112546.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181005112546.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181005112546.3">
+## Week 1
+ 
+ 沿用一年級所學的github加上這學期要學Onshape來完成這門課的功課以及專題
+</t>
+<t tx="leo.20181005112546.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181005112546.5">## Week 2
+ 
+ 瞭解如何更新自己的Blog與紀錄一下每週在課堂上做了什麼有意義的事
+
+</t>
+<t tx="leo.20181005112546.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -336,9 +384,28 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181005094736.2">  ##Week 1
+<t tx="leo.20181005112546.7">## Week 4.
+
+
+瞭解如何製作屬於自己的投影片and 看PDF慢慢瞭解Onshape 的操作過程以及逞是裡的專有名詞
+
+當別人反映你的軟體不好用時，要想想看是不是哪裡自己能力不足，所以遇到刁鑽的客戶是會使人成長，讓自己的能力提升</t>
+<t tx="leo.20181005112859.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181005112859.2">## Week 3
  
- 沿用一年級所學的github加上這學期要學Onshape來完成這門課的功課以及專題
+ 瞭解為甚麼要用GIT，因為利用github push至遠端別人修改及創造新的議題時，修改完在推上去遠端，別人在clone下來時，就不會有版本問題了
+
+把還沒有發生在實際上的事情或物品模擬給它抽象性
 </t>
 </tnodes>
 </leo_file>
