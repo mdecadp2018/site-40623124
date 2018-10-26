@@ -1,23 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="https://mdecadp2018.github.io/site-40623124/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623124/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623124/blog/</id><updated>2018-10-23T11:00:00+08:00</updated><entry><title>Week-5</title><link href="https://mdecadp2018.github.io/site-40623124/blog/2018-E.html" rel="alternate"></link><published>2018-10-23T11:00:00+08:00</published><updated>2018-10-23T11:00:00+08:00</updated><author><name>40623124</name></author><id>tag:mdecadp2018.github.io,2018-10-23:/site-40623124/blog/2018-E.html</id><summary type="html">&lt;p&gt;2018-3&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2018-3&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="https://mdecadp2018.github.io/site-40623124/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623124/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623124/blog/</id><updated>2018-10-27T11:00:00+08:00</updated><entry><title>Week-7</title><link href="https://mdecadp2018.github.io/site-40623124/blog/2018-G.html" rel="alternate"></link><published>2018-10-27T11:00:00+08:00</published><updated>2018-10-27T11:00:00+08:00</updated><author><name>40623124</name></author><id>tag:mdecadp2018.github.io,2018-10-27:/site-40623124/blog/2018-G.html</id><summary type="html">&lt;p&gt;2018-7&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2018-7&lt;/p&gt;
+
+
+&lt;p&gt;課程心得：Bridge 橋接 redundant 重複的&lt;/p&gt;
+&lt;p&gt;DNS IPV4 140.130.17.3   140.130.1.2&lt;/p&gt;
+&lt;p&gt;IPV6 2001:288:6004:17::3     系&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt; 2001:288:6004:1::2       校
+
+2001:288:6004::1           hinet
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;全宇宙就算每一物種都給他IP，IPV6也不會不夠&lt;/p&gt;
+&lt;h2&gt;想法：不能把自己負面的消息放在網路上，因為這個是會留下紀錄，所以要不斷地改進自己，讓今天的自己比昨天的自己更進步，一天進步一點，一年後的自己就不一樣&lt;/h2&gt;</content><category term="2018Fall"></category></entry><entry><title>Week-6</title><link href="https://mdecadp2018.github.io/site-40623124/blog/2018-F.html" rel="alternate"></link><published>2018-10-26T11:00:00+08:00</published><updated>2018-10-26T11:00:00+08:00</updated><author><name>40623124</name></author><id>tag:mdecadp2018.github.io,2018-10-26:/site-40623124/blog/2018-F.html</id><summary type="html">&lt;p&gt;2018-6&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2018-6&lt;/p&gt;
+
+
+&lt;h2&gt;課程心得：知道繪畫工程圖是這麼課的目的之一，但比會畫工程圖還要主要的目的是，瞭解老師給的Onshape教材中的一些專屬名詞，並且把不懂文單字記錄下來，讓自己在以後如果遇到這個單字時能夠翻筆記本就能快速知道他的中文解釋&lt;/h2&gt;</content><category term="2018Fall"></category></entry><entry><title>Week-5</title><link href="https://mdecadp2018.github.io/site-40623124/blog/2018-E.html" rel="alternate"></link><published>2018-10-23T11:00:00+08:00</published><updated>2018-10-23T11:00:00+08:00</updated><author><name>40623124</name></author><id>tag:mdecadp2018.github.io,2018-10-23:/site-40623124/blog/2018-E.html</id><summary type="html">&lt;p&gt;2018-5&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2018-5&lt;/p&gt;
 
 
 &lt;p&gt;課程心得：幾何形狀越複雜，越需要再設計零件草圖之前做好設計意圖的確認&lt;/p&gt;
-&lt;h2&gt;設計意圖是指在設計零件前，必須完成專案目的與需求確認&lt;/h2&gt;</content><category term="2018Fall"></category></entry><entry><title>Week-4</title><link href="https://mdecadp2018.github.io/site-40623124/blog/2018-D.html" rel="alternate"></link><published>2018-10-22T11:00:00+08:00</published><updated>2018-10-22T11:00:00+08:00</updated><author><name>40623124</name></author><id>tag:mdecadp2018.github.io,2018-10-22:/site-40623124/blog/2018-D.html</id><summary type="html">&lt;p&gt;2018-2&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2018-2&lt;/p&gt;
+&lt;h2&gt;設計意圖是指在設計零件前，必須完成專案目的與需求確認&lt;/h2&gt;</content><category term="2018Fall"></category></entry><entry><title>Week-4</title><link href="https://mdecadp2018.github.io/site-40623124/blog/2018-D.html" rel="alternate"></link><published>2018-10-22T11:00:00+08:00</published><updated>2018-10-22T11:00:00+08:00</updated><author><name>40623124</name></author><id>tag:mdecadp2018.github.io,2018-10-22:/site-40623124/blog/2018-D.html</id><summary type="html">&lt;p&gt;2018-4&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2018-4&lt;/p&gt;
 
 
 &lt;p&gt;課程心得：瞭解如何製作屬於自己的投影片and 看PDF慢慢瞭解Onshape 的操作過程以及逞是裡的專有名詞&lt;/p&gt;
-&lt;h2&gt;當別人反映你的軟體不好用時，要想想看是不是哪裡自己能力不足，所以遇到刁鑽的客戶是會使人成長，讓自己的能力提升&lt;/h2&gt;</content><category term="2018Fall"></category></entry><entry><title>Week-3</title><link href="https://mdecadp2018.github.io/site-40623124/blog/2018-C.html" rel="alternate"></link><published>2018-10-21T11:00:00+08:00</published><updated>2018-10-21T11:00:00+08:00</updated><author><name>40623124</name></author><id>tag:mdecadp2018.github.io,2018-10-21:/site-40623124/blog/2018-C.html</id><summary type="html">&lt;p&gt;2018-1
-</summary><content type="html">&lt;p&gt;2018-1
+&lt;h2&gt;當別人反映你的軟體不好用時，要想想看是不是哪裡自己能力不足，所以遇到刁鑽的客戶是會使人成長，讓自己的能力提升&lt;/h2&gt;</content><category term="2018Fall"></category></entry><entry><title>Week-3</title><link href="https://mdecadp2018.github.io/site-40623124/blog/2018-C.html" rel="alternate"></link><published>2018-10-21T11:00:00+08:00</published><updated>2018-10-21T11:00:00+08:00</updated><author><name>40623124</name></author><id>tag:mdecadp2018.github.io,2018-10-21:/site-40623124/blog/2018-C.html</id><summary type="html">&lt;p&gt;2018-3
+</summary><content type="html">&lt;p&gt;2018-3
 &lt;/p&gt;
 &lt;p&gt;課程心得：瞭解為甚麼要用GIT，因為利用github push至遠端別人修改及創造新的議題時，修改完在推上去遠端，別人在clone下來時，就不會有版本問題了&lt;/p&gt;
-&lt;h2&gt;把還沒有發生在實際上的事情或物品模擬給它抽象性&lt;/h2&gt;</content><category term="2018Fall"></category></entry><entry><title>Week-2</title><link href="https://mdecadp2018.github.io/site-40623124/blog/2018-B.html" rel="alternate"></link><published>2018-10-20T11:00:00+08:00</published><updated>2018-10-20T11:00:00+08:00</updated><author><name>40623124</name></author><id>tag:mdecadp2018.github.io,2018-10-20:/site-40623124/blog/2018-B.html</id><summary type="html">&lt;p&gt;2018
-</summary><content type="html">&lt;p&gt;2018
+&lt;h2&gt;把還沒有發生在實際上的事情或物品模擬給它抽象性&lt;/h2&gt;</content><category term="2018Fall"></category></entry><entry><title>Week-2</title><link href="https://mdecadp2018.github.io/site-40623124/blog/2018-B.html" rel="alternate"></link><published>2018-10-20T11:00:00+08:00</published><updated>2018-10-20T11:00:00+08:00</updated><author><name>40623124</name></author><id>tag:mdecadp2018.github.io,2018-10-20:/site-40623124/blog/2018-B.html</id><summary type="html">&lt;p&gt;2018-2
+</summary><content type="html">&lt;p&gt;2018-2
 &lt;/p&gt;
-&lt;h2&gt;課程心得：瞭解如何更新自己的Blog與紀錄一下每週在課堂上做了什麼有意義的事&lt;/h2&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Week-1</title><link href="https://mdecadp2018.github.io/site-40623124/blog/2018-Blog.html" rel="alternate"></link><published>2018-10-19T11:00:00+08:00</published><updated>2018-10-19T11:00:00+08:00</updated><author><name>40623124</name></author><id>tag:mdecadp2018.github.io,2018-10-19:/site-40623124/blog/2018-Blog.html</id><summary type="html">&lt;p&gt;2018&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2018&lt;/p&gt;
+&lt;h2&gt;課程心得：瞭解如何更新自己的Blog與紀錄一下每週在課堂上做了什麼有意義的事&lt;/h2&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Week-1</title><link href="https://mdecadp2018.github.io/site-40623124/blog/2018-Blog.html" rel="alternate"></link><published>2018-10-19T11:00:00+08:00</published><updated>2018-10-19T11:00:00+08:00</updated><author><name>40623124</name></author><id>tag:mdecadp2018.github.io,2018-10-19:/site-40623124/blog/2018-Blog.html</id><summary type="html">&lt;p&gt;2018-1&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2018-1&lt;/p&gt;
 
 
 &lt;h2&gt;課程心得：沿用一年級所學的github加上這學期要學Onshape來完成這門課的功課以及專題&lt;/h2&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623124/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623124/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
