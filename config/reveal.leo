@@ -21,10 +21,10 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181005112546.1" a="E"><vh>每週心得</vh>
+<v t="leo.20181005112546.1"><vh>每週心得</vh>
 <v t="leo.20181005112546.2" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20181005112546.3"><vh>w1</vh></v>
 </v>
@@ -153,6 +153,12 @@ vertical: body pane on the botton</t>
 
 &lt;small&gt;
 Created by [github](https://github.com/mdecadp2018/site-40623124)
+
+* ## [部落格](https://mdecadp2018.github.io/site-40623124/blog/index.html)
+
+* ## [網誌](https://mdecadp2018.github.io/site-40623124/content/index.html)
+
+* ## [倉儲](https://github.com/mdecadp2018/site-40623124)
 
 
 
@@ -431,7 +437,9 @@ make.start()
 
 幾何形狀越複雜，越需要再設計零件草圖之前做好設計意圖的確認
 
-設計意圖是指在設計零件前，必須完成專案目的與需求確認</t>
+設計意圖是指在設計零件前，必須完成專案目的與需求確認
+
+</t>
 <t tx="leo.20181026112125.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -455,8 +463,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181026112132.2">## Week 7.
-
+<t tx="leo.20181026112132.2">### Week 7.
 
 Bridge 橋接 redundant 重複的
 
@@ -469,7 +476,6 @@ IPV6 2001:288:6004:17::3     系
     2001:288:6004::1           hinet
 
 全宇宙就算每一物種都給他IP，IPV6也不會不夠
-
 想法：不能把自己負面的消息放在網路上，因為這個是會留下紀錄，所以要不斷地改進自己，讓今天的自己比昨天的自己更進步，一天進步一點，一年後的自己就不一樣了
 
 
