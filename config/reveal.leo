@@ -57,17 +57,19 @@
 <v t="leo.20190108160402.6" a="E"><vh>導入縮排程式碼</vh>
 <v t="leo.20190108160402.7"><vh>w3</vh></v>
 </v>
-<v t="leo.20190108160402.8" a="E"><vh>導入影片</vh>
-<v t="leo.20190108160402.9"><vh>w4</vh></v>
 </v>
-<v t="leo.20190108160402.10" a="E"><vh>導入影片</vh>
-<v t="leo.20190108160402.11"><vh>w5</vh></v>
+<v t="leo.20190108163923.1" a="E"><vh>W10-W18</vh>
+<v t="leo.20190108163923.2" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20190108163923.3"><vh>w1</vh></v>
 </v>
-<v t="leo.20190108160402.12" a="E"><vh>導入影片</vh>
-<v t="leo.20190108160402.13"><vh>w6</vh></v>
+<v t="leo.20190108163923.4" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20190108163923.5"><vh>w2</vh></v>
 </v>
-<v t="leo.20190108160402.14" a="E"><vh>導入影片</vh>
-<v t="leo.20190108160402.15"><vh>w7</vh></v>
+<v t="leo.20190108163923.6"><vh>導入縮排程式碼</vh>
+<v t="leo.20190108163923.7"><vh>w3</vh></v>
+</v>
+<v t="leo.20190108171507.1" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20190108171507.2"><vh>w3</vh></v>
 </v>
 </v>
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
@@ -509,63 +511,6 @@ IPV6 2001:288:6004:17::3     系
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20190108160402.10">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190108160402.11">## Week 5.
-
-幾何形狀越複雜，越需要再設計零件草圖之前做好設計意圖的確認
-
-設計意圖是指在設計零件前，必須完成專案目的與需求確認
-
-</t>
-<t tx="leo.20190108160402.12">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190108160402.13">## Week 6.
-
-
-知道繪畫工程圖是這麼課的目的之一，但比會畫工程圖還要主要的目的是，瞭解老師給的Onshape教材中的一些專屬名詞，並且把不懂文單字記錄下來，讓自己在以後如果遇到這個單字時能夠翻筆記本就能快速知道他的中文解釋
-</t>
-<t tx="leo.20190108160402.14">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190108160402.15">### Week 7.
-
-Bridge 橋接 redundant 重複的
-
-DNS IPV4 140.130.17.3   140.130.1.2
-
-IPV6 2001:288:6004:17::3     系
-
-    2001:288:6004:1::2       校
-
-    2001:288:6004::1           hinet
-
-全宇宙就算每一物種都給他IP，IPV6也不會不夠
-想法：不能把自己負面的消息放在網路上，因為這個是會留下紀錄，所以要不斷地改進自己，讓今天的自己比昨天的自己更進步，一天進步一點，一年後的自己就不一樣了
-
-
-
-</t>
 <t tx="leo.20190108160402.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -609,28 +554,81 @@ IPV6 2001:288:6004:17::3     系
 
 						
 </t>
-<t tx="leo.20190108160402.7">## Week 3
+<t tx="leo.20190108160402.7">## 期中前所學
  
- 瞭解為甚麼要用GIT，因為利用github push至遠端別人修改及創造新的議題時，修改完在推上去遠端，別人在clone下來時，就不會有版本問題了
-
-把還沒有發生在實際上的事情或物品模擬給它抽象性
+ 1.如何利用Onshape繪製
+ 2.如何管理自己的倉儲
+ 3.了解到每星期的累積是多麼重要
+ 4.了解該如何地分配時間
 </t>
-<t tx="leo.20190108160402.8">&lt;section data-markdown&gt;
+<t tx="leo.20190108163923.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190108163923.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 
 
+
 						
 </t>
-<t tx="leo.20190108160402.9">## Week 4.
+<t tx="leo.20190108163923.3">
+## 期中到期末前學到了什麼?
+ 
+ 
+</t>
+<t tx="leo.20190108163923.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 
 
-瞭解如何製作屬於自己的投影片and 看PDF慢慢瞭解Onshape 的操作過程以及逞是裡的專有名詞
 
-當別人反映你的軟體不好用時，要想想看是不是哪裡自己能力不足，所以遇到刁鑽的客戶是會使人成長，讓自己的能力提升
+						
+</t>
+<t tx="leo.20190108163923.5">## 期中後
+ 
+從第9周開始就分好了組別，各組開始為自己組的期末專案共同努力，這幾週在各組員的努力協助下，慢慢的把我們這組所選的３Ｄ列印機給完成！
 
 </t>
+<t tx="leo.20190108163923.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190108163923.7">## 期中後到期末所學
+ 
+ 1.了解如何跟組員溝通
+ 2.如何管理小組的倉儲
+ 3.如何團隊合作
+ 4.發現問題後該如何解決
+ 5.如何分配工作量</t>
+<t tx="leo.20190108171507.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190108171507.2">## 期末心得
+ 
+ 現在的社會變化很快 ，新的東西也一直推陳出新，重點已經不是像以前一樣，學會了什麼？而是你在過程中學道了什麼經歷過什麼，這才能跟上快速變遷的社會，再加上現在在職場上單打獨鬥的人不多了，基本上都是在講團隊合作，一個ｔｅａｍ的概念，每個人在看每件事都有不同面向的看法，所以何不組一個ｔｅａｍ來幫助自己快速且有效率的解決問題</t>
 </tnodes>
 </leo_file>
