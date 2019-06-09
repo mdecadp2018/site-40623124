@@ -56,8 +56,11 @@
 </v>
 </v>
 <v t="leo.20190108163923.1" a="E"><vh>W10-W18</vh>
-<v t="leo.20190108163923.2" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20190108163923.2"><vh>導入數學符號與方程式</vh>
 <v t="leo.20190108163923.3"><vh>w1</vh></v>
+</v>
+<v t="leo.20190610003325.1" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20190610003325.2"><vh>2</vh></v>
 </v>
 </v>
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
@@ -385,7 +388,9 @@ make.start()
 ## Week 11
  
  分配個人所負責之項目
- </t>
+ 
+
+</t>
 <t tx="leo.20181005112546.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -473,7 +478,9 @@ make.start()
 </t>
 <t tx="leo.20190108163923.3">## 結語：
 
- 在這一門課裡，學會了如何跟人溝通與討論小組議題，當自己遇到困難時，不用自己獨自解決，而是可以靠著團隊裡大家的幫忙，來讓所遇到的問題迎刃而解，讓事情能夠有效且快速的被解決！</t>
+ 在這一門課裡，學會了如何跟人溝通與討論小組議題，當自己遇到困難時，不用自己獨自解決，而是可以靠著團隊裡大家的幫忙，來讓所遇到的問題迎刃而解，讓事情能夠有效且快速的被解決！
+
+</t>
 <t tx="leo.20190609224415.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -518,7 +525,9 @@ make.start()
 </t>
 <t tx="leo.20190609224421.2">## Vrep基本設定
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/h5_TWTqznC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/h5_TWTqznC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20190609225848.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -533,6 +542,24 @@ make.start()
 <t tx="leo.20190609225848.2">## 期末個人影片
 
  &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/i15jFejohRo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20190610003325.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190610003325.2">## 評分依據：
+
+&lt;img style="-webkit-user-select: none;" src="https://lh3.googleusercontent.com/FW4I0t-F5HVqumZ94H5a9npQZvEpSKvmjEBi7RagPDtPLSF_o5XA5u69EjAryvH6oMOrXA5lUNH6iT6vyB2PZ28hWVaG3St9shvuVDqxTwtz5SVY3oKXrpNuXYKh20Nt1dH4mSk5VIhfX0gI8BaFuI7bvRe4yyHdOmC5Bn2n10t6uP7czXPZ_FnQsD8abcMM--zqw92t6cpor6ux6Z0481E9KWsBBhdYweJwR2EFdvPe41GL9RTpuffQM7gf3ubWExMZTdKsZh8UVssq9t-K6byDg-D0Op259kvg13RwvMXd6fbBKOMqC2addSFw1HKLXA8uR3YwmJBecLLbIxL8UCaL6uArur1cLfu3tXHnztlp9t1hcERZ5Va2SjCnt16Ra003ndhzCQIHY2WjU88NK52SuCKgLBCGEu3Ke9I6zOzjZ4Yta6qE3Znsr26m84jZ4W6OFgvGzcgxjs6GqLTJkj_zCjplnvqt-KWhA59GurbQYTvzm9X3AsaKxgOo1zBAuheF3xBw3n0YWxWJIP3nUAAsREYsAUNhAkVaWukt9rIcrSqDXt4BrduBQHea8Wq--jp1Fp-AF_YGRliwpgsJdfzGeHILY7SckjOeT5gsR_QFKC5c98tXpazCJYSNsEBI2W0hePDvK7GpKaAJ18JleHBDoJ8Jar4=w1402-h434-no"height="300"width="1200"&gt;
+
+
+
 </t>
 </tnodes>
 </leo_file>
