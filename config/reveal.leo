@@ -24,52 +24,40 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181005112546.1"><vh>每週心得</vh>
+<v t="leo.20181005112546.1" a="E"><vh>每週心得</vh>
 <v t="leo.20181005112546.2" a="E"><vh>導入數學符號與方程式</vh>
-<v t="leo.20181005112546.3"><vh>w1</vh></v>
+<v t="leo.20181005112546.3"><vh>w11</vh></v>
 </v>
 <v t="leo.20181005112546.4" a="E"><vh>導入縮排程式碼</vh>
-<v t="leo.20181005112546.5"><vh>w2</vh></v>
-</v>
-<v t="leo.20181005112859.1" a="E"><vh>導入縮排程式碼</vh>
-<v t="leo.20181005112859.2"><vh>w3</vh></v>
-</v>
-<v t="leo.20181005112546.6" a="E"><vh>導入影片</vh>
-<v t="leo.20181005112546.7"><vh>w4</vh></v>
-</v>
-<v t="leo.20181026112120.1" a="E"><vh>導入影片</vh>
-<v t="leo.20181026112120.2"><vh>w5</vh></v>
-</v>
-<v t="leo.20181026112125.1" a="E"><vh>導入影片</vh>
-<v t="leo.20181026112125.2"><vh>w6</vh></v>
-</v>
-<v t="leo.20181026112132.1" a="E"><vh>導入影片</vh>
-<v t="leo.20181026112132.2"><vh>w7</vh></v>
+<v t="leo.20181005112546.5"><vh>w11-1</vh></v>
 </v>
 </v>
 <v t="leo.20190108160402.1" a="E"><vh>W10-W18</vh>
 <v t="leo.20190108160402.2" a="E"><vh>導入數學符號與方程式</vh>
-<v t="leo.20190108160402.3"><vh>w1</vh></v>
+<v t="leo.20190108160402.3"><vh>1</vh></v>
 </v>
-<v t="leo.20190108160402.4" a="E"><vh>導入縮排程式碼</vh>
-<v t="leo.20190108160402.5"><vh>w2</vh></v>
+<v t="leo.20190108160402.4"><vh>導入縮排程式碼</vh>
+<v t="leo.20190108160402.5"><vh>2</vh></v>
 </v>
-<v t="leo.20190108160402.6" a="E"><vh>導入縮排程式碼</vh>
-<v t="leo.20190108160402.7"><vh>w3</vh></v>
+<v t="leo.20190108160402.6"><vh>導入縮排程式碼</vh>
+<v t="leo.20190108160402.7"><vh>3</vh></v>
+</v>
+<v t="leo.20190609224415.1"><vh>導入縮排程式碼</vh>
+<v t="leo.20190609224415.2"><vh>4</vh></v>
+</v>
+<v t="leo.20190609224421.1"><vh>導入縮排程式碼</vh>
+<v t="leo.20190609224421.2"><vh>5</vh></v>
+</v>
+<v t="leo.20190609224418.1"><vh>導入縮排程式碼</vh>
+<v t="leo.20190609224418.2"><vh>6</vh></v>
+</v>
+<v t="leo.20190609225848.1"><vh>導入縮排程式碼</vh>
+<v t="leo.20190609225848.2"><vh>7</vh></v>
 </v>
 </v>
 <v t="leo.20190108163923.1" a="E"><vh>W10-W18</vh>
 <v t="leo.20190108163923.2" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20190108163923.3"><vh>w1</vh></v>
-</v>
-<v t="leo.20190108163923.4" a="E"><vh>導入縮排程式碼</vh>
-<v t="leo.20190108163923.5"><vh>w2</vh></v>
-</v>
-<v t="leo.20190108163923.6" a="E"><vh>導入縮排程式碼</vh>
-<v t="leo.20190108163923.7"><vh>w3</vh></v>
-</v>
-<v t="leo.20190108171507.1" a="E"><vh>導入縮排程式碼</vh>
-<v t="leo.20190108171507.2"><vh>w3</vh></v>
 </v>
 </v>
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
@@ -172,14 +160,13 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018MDE期中分組網際簡報
+<t tx="leo.20180827201621.10">### 2019 協同產品設計實習期末簡報
 
-### 40623124期中投影片
+####  40623124期末個人簡報
 
 &lt;small&gt;
-Created by [github](https://github.com/mdecadp2018/site-40623124)
+Created by [40623124](https://github.com/mdecadp2018/site-40623124)
 
-* ## [部落格](https://mdecadp2018.github.io/site-40623124/blog/index.html)
 
 * ## [網誌](https://mdecadp2018.github.io/site-40623124/content/index.html)
 
@@ -395,10 +382,10 @@ make.start()
 						
 </t>
 <t tx="leo.20181005112546.3">
-## Week 1
+## Week 11
  
- 沿用一年級所學的github加上這學期要學Onshape來完成這門課的功課以及專題
-</t>
+ 分配個人所負責之項目
+ </t>
 <t tx="leo.20181005112546.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -410,100 +397,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181005112546.5">## Week 2
+<t tx="leo.20181005112546.5"> ## 工作內容
  
- 瞭解如何更新自己的Blog與紀錄一下每週在課堂上做了什麼有意義的事
-
-</t>
-<t tx="leo.20181005112546.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181005112546.7">## Week 4.
-
-
-瞭解如何製作屬於自己的投影片and 看PDF慢慢瞭解Onshape 的操作過程以及逞是裡的專有名詞
-
-當別人反映你的軟體不好用時，要想想看是不是哪裡自己能力不足，所以遇到刁鑽的客戶是會使人成長，讓自己的能力提升
-
-</t>
-<t tx="leo.20181005112859.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181005112859.2">## Week 3
- 
- 瞭解為甚麼要用GIT，因為利用github push至遠端別人修改及創造新的議題時，修改完在推上去遠端，別人在clone下來時，就不會有版本問題了
-
-把還沒有發生在實際上的事情或物品模擬給它抽象性
-</t>
-<t tx="leo.20181026112120.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181026112120.2">## Week 5.
-
-幾何形狀越複雜，越需要再設計零件草圖之前做好設計意圖的確認
-
-設計意圖是指在設計零件前，必須完成專案目的與需求確認
-
-</t>
-<t tx="leo.20181026112125.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181026112125.2">## Week 6.
-
-
-知道繪畫工程圖是這麼課的目的之一，但比會畫工程圖還要主要的目的是，瞭解老師給的Onshape教材中的一些專屬名詞，並且把不懂文單字記錄下來，讓自己在以後如果遇到這個單字時能夠翻筆記本就能快速知道他的中文解釋
-</t>
-<t tx="leo.20181026112132.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181026112132.2">### Week 7.
-
-Bridge 橋接 redundant 重複的
-
-DNS IPV4 140.130.17.3   140.130.1.2
-
-IPV6 2001:288:6004:17::3     系
-
-    2001:288:6004:1::2       校
-
-    2001:288:6004::1           hinet
-
-全宇宙就算每一物種都給他IP，IPV6也不會不夠
-想法：不能把自己負面的消息放在網路上，因為這個是會留下紀錄，所以要不斷地改進自己，讓今天的自己比昨天的自己更進步，一天進步一點，一年後的自己就不一樣了
-
-
+ 分配到的是Vrep模擬與程式以及製作簡報
 
 </t>
 <t tx="leo.20190108160402.1">&lt;section&gt;
@@ -522,8 +418,8 @@ IPV6 2001:288:6004:17::3     系
 
 						
 </t>
-<t tx="leo.20190108160402.3">
-## 這門課我學到了甚麼?
+<t tx="leo.20190108160402.3">## Ｗ１２～Ｗ１６
+## 以下影片說明部分事情
  
  
 </t>
@@ -538,9 +434,9 @@ IPV6 2001:288:6004:17::3     系
 
 						
 </t>
-<t tx="leo.20190108160402.5">## 期中前
- 
- 期中前並不需要跟別人配合只要做好自己的事就可以了但期中後就必須跟其他五位組員配合這可能是在培養團隊合作吧~
+<t tx="leo.20190108160402.5">## 球檯示範簡化
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/nlnmwvENZlE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 <t tx="leo.20190108160402.6">&lt;section data-markdown&gt;
@@ -554,12 +450,10 @@ IPV6 2001:288:6004:17::3     系
 
 						
 </t>
-<t tx="leo.20190108160402.7">## 期中前所學
- 
-* ###  1.如何利用Onshape繪製
-* ###  2.如何管理自己的倉儲
-* ### 3.了解到每星期的累積是多麼重要
-* ###  4.了解該如何地分配時間
+<t tx="leo.20190108160402.7">## 手組球檯繪製(簡易版)
+
+ &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/zJDJhRIkwFI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
 </t>
 <t tx="leo.20190108163923.1">&lt;section&gt;
 @others
@@ -577,12 +471,10 @@ IPV6 2001:288:6004:17::3     系
 
 						
 </t>
-<t tx="leo.20190108163923.3">
-## 期中到期末前學到了什麼?
- 
- 
-</t>
-<t tx="leo.20190108163923.4">&lt;section data-markdown&gt;
+<t tx="leo.20190108163923.3">## 結語：
+
+ 在這一門課裡，學會了如何跟人溝通與討論小組議題，當自己遇到困難時，不用自己獨自解決，而是可以靠著團隊裡大家的幫忙，來讓所遇到的問題迎刃而解，讓事情能夠有效且快速的被解決！</t>
+<t tx="leo.20190609224415.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -593,12 +485,12 @@ IPV6 2001:288:6004:17::3     系
 
 						
 </t>
-<t tx="leo.20190108163923.5">## 期中後
- 
-從第9周開始就分好了組別，各組開始為自己組的期末專案共同努力，這幾週在各組員的努力協助下，慢慢的把我們這組所選的３Ｄ列印機給完成！
+<t tx="leo.20190609224415.2">## 簡化後球無法通過球門解決方法
+
+ &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Wg7aTU3srVE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
-<t tx="leo.20190108163923.6">&lt;section data-markdown&gt;
+<t tx="leo.20190609224418.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -609,16 +501,11 @@ IPV6 2001:288:6004:17::3     系
 
 						
 </t>
-<t tx="leo.20190108163923.7">## 期中後到期末所學
- 
-* ###  1.了解如何跟組員溝通
-* ###  2.如何管理小組的倉儲
-* ###  3.如何團隊合作
-* ###  4.發現問題後該如何解決
-* ###  5.如何分配工作量
+<t tx="leo.20190609224418.2">## bubbleRob vrep模擬
 
+ &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/piTxLAcaSn4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
-<t tx="leo.20190108171507.1">&lt;section data-markdown&gt;
+<t tx="leo.20190609224421.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -629,10 +516,23 @@ IPV6 2001:288:6004:17::3     系
 
 						
 </t>
-<t tx="leo.20190108171507.2">## 期末心得
- 
- 現在的社會變化很快 ，新的東西也一直推陳出新，重點已經不是像以前一樣，學會了什麼？而是你在過程中學到了什麼?經歷過什麼?這才能跟上快速變遷的社會，再加上現在在職場上單打獨鬥的人不多了，基本上都是在講團隊合作，一個ｔｅａｍ的概念，每個人在看每件事都有不同面向的看法，所以何不組一個ｔｅａｍ來幫助自己快速且有效率的解決問題
+<t tx="leo.20190609224421.2">## Vrep基本設定
 
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/h5_TWTqznC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190609225848.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190609225848.2">## 期末個人影片
+
+ &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/i15jFejohRo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 </tnodes>
 </leo_file>
